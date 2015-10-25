@@ -1,0 +1,32 @@
+[
+  {
+    "value": 330,
+    "unit": "mL",
+    "mL_equiv": 330
+  },
+  {
+    "value": 500,
+    "unit": "mL",
+    "mL_equiv": 500
+  },
+  {
+    "value": 440,
+    "unit": "mL",
+    "mL_equiv": 440
+  },
+  {
+    "value": 1,
+    "unit": " pint",
+    "mL_equiv": 568
+  },
+  {
+    "value": 750,
+    "unit": "mL",
+    "mL_equiv": 750
+  },
+  {
+    "value": 1,
+    "unit": "L",
+    "mL_equiv": 1000
+  }
+]
